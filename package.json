@@ -1,0 +1,8 @@
+{
+  "name": "gst-design-patterns-shopping-cart",
+  "version": "1.0.0",
+  "description": "GoMyCode checkpoint - Design Patterns (Shopping Cart: procedural vs Module Pattern)",
+  "main": "tests.js",
+  "scripts": { "test": "node tests.js" },
+  "license": "MIT"
+}
